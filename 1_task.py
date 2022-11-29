@@ -4,7 +4,7 @@
 # - 6782 -> 23
 # - 0,56 -> 11
 
-n = input()
+n = input('number: ')
 sum = 0
 for a in n:
     if a != ',':
